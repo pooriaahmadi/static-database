@@ -33,5 +33,13 @@
             "image": "https://cdn.discordapp.com/icons/823851232362758174/a_7a05ae6626f694ab6c20fc73364296a7.gif?size=256",
             "url": "https://shop.zedpixel.net"
         }
+    ],
+    "languages": [{
+            "id": 1,
+            "title": "Spanish",
+            "rate": "20%"
+        },
+        { "id": 2, "title": "English", "rate": "60%" },
+        { "id": 3, "title": "Persian", "rate": "99%" }
     ]
 }
